@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Employee\Employees\bin\Debug\netcoreapp3.1\Employees.deps.json
+C:\Users\Admin\source\repos\Employee\Employees\bin\Debug\netcoreapp3.1\Employees.dll
+C:\Users\Admin\source\repos\Employee\Employees\bin\Debug\netcoreapp3.1\Employees.pdb
+C:\Users\Admin\source\repos\Employee\Employees\obj\Debug\netcoreapp3.1\Employees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Employee\Employees\obj\Debug\netcoreapp3.1\Employees.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Employee\Employees\obj\Debug\netcoreapp3.1\Employees.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Employee\Employees\obj\Debug\netcoreapp3.1\Employees.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Employee\Employees\obj\Debug\netcoreapp3.1\Employees.dll
+C:\Users\Admin\source\repos\Employee\Employees\obj\Debug\netcoreapp3.1\Employees.pdb
